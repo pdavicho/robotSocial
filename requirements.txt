@@ -4,4 +4,4 @@ protobuf==5.29.3
 SpeechRecognition==3.10.4
 streamlit==1.41.1
 google-generativeai
-pyaudio==0.2.13
+pyaudio
